@@ -1,0 +1,9 @@
+columns:
+  - clean_comment
+  - category
+
+categorical_columns:
+  - clean_comment
+
+numerical_columns:
+  - category
